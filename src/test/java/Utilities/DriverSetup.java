@@ -23,7 +23,7 @@ public class DriverSetup {
 //		ChromeOptions options = new ChromeOptions();
 //		options.addArguments("--remote-allow-origins=*");
 //		ChromeDriver driver = new ChromeDriver(options);
-//		driver.get("http://123.200.20.20:7015/");
+//		driver.get("");
 //		driver.manage().window().maximize();
 		driver.get("");
 		WebElement username = driver.findElement(By.id("exampleInputPassword1"));
