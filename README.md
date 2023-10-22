@@ -3,11 +3,10 @@ Introduction:
 
 
 Java, Selenium Web Driver, and TestNG were used to construct this test automation framework. This is applicable to many web-based applications.
-With this strategy, the goal is to create several application-independent, reusable keyword components that may be utilized immediately for another web application without requiring any further work. 
 
 Prerequisites:
 ---------------
-*	Java jdk-11
+*	Java jdk-11 or higher
 *	Apache Maven 3 or higher
 *	Please refer for any help in Maven. 
 * 	http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
