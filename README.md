@@ -1,4 +1,4 @@
-Introduction: [![Build Status](https://travis-ci.org/shirishk/Java-Selenium-TestNG-Automation-Framework.svg?branch=master)](https://travis-ci.org/shirishk/Java-Selenium-TestNG-Automation-Framework) [![Join the chat at https://gitter.im/shirishk/Java-Selenium-TestNG-Automation-Framework](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shirishk/Java-Selenium-TestNG-Automation-Framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Introduction: 
 ---------------
 
 
@@ -13,7 +13,7 @@ Prerequisites:
 * 	http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 * 	http://www.tutorialspoint.com/maven/maven_environment_setup.htm
 
-<p><a href="https://github.com/shirishk/Java-Selenium-TestNG-Automation-Framework/wiki/Logging"><h2>Logging:</h2></a></p>
+Logging:
 
 *	log4j configured to capture the test execution logs
 *	Configuration file is located at //config/log4j.xml
