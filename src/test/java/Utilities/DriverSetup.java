@@ -25,11 +25,11 @@ public class DriverSetup {
 //		ChromeDriver driver = new ChromeDriver(options);
 //		driver.get("http://123.200.20.20:7015/");
 //		driver.manage().window().maximize();
-		driver.get("http://123.200.20.20:7015/");
+		driver.get("");
 		WebElement username = driver.findElement(By.id("exampleInputPassword1"));
-		username.sendKeys("023024");
+		username.sendKeys("");
 		WebElement password = driver.findElement(By.cssSelector("input[class='form-control input-password']"));
-		password.sendKeys("Cns@1234#");
+		password.sendKeys("");
 		WebElement loginbutton = driver.findElement(By.cssSelector("button[class='btn glow position-relative w-100 submit-btn']"));
 		loginbutton.click();
 		Thread.sleep(2000);
